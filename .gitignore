@@ -1,0 +1,10 @@
+# WebStorm
+*.iml
+
+# IntelliJ IDEA
+.idea/
+.idea/workspace.xml
+**/.idea/workspace.xml
+
+# Mac hidden files
+.DS_Store
